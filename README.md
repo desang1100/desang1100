@@ -1,4 +1,4 @@
-# 👋 Hi, Im Marsan Jay Saladaga (Nas) 🍉🌼
+# 👋 Hi, I'm Marsan Jay Saladaga (Nas) 🍉🌼
 
     A passionate developer with a background in various programming languages and technologies. 
 I studied at ACLC College of Butuan, and I have experience in the following areas:
