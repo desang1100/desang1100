@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, Im Marsan Jay Saladaga👋
 
-<!--
-**desang1100/desang1100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate developer with a background in various programming languages and technologies. 
+I studied at ACLC College of Butuan, and I have experience in the following areas:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Python: Proficient in Python for scripting, automation, and backend development.
+  - HTML & CSS: Skilled in creating and styling web pages.
+  - React JS: Experienced in building dynamic and responsive user interfaces.
+  - JavaScript: Knowledgeable in adding interactivity and functionality to web applications.
+  - Natural Language Processing (NLP): Familiar with techniques for processing and analyzing human language data.
+  - Machine Learning: Experienced in developing and implementing machine learning models
+
+Projects
+Here are some of the projects I've worked on:
+
+Project Name: Evaluating Healthcare Benefits of Senior Citizens
+              through Opinion Mining.
+Project Name: Classification on Personality Traits using Naive Bayes Classifier and Support Vector Machine.
+Project Name: Classification on Low Income Citizens using Naive Bayes Classifier.
+
+
