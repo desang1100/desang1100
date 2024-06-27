@@ -14,10 +14,9 @@ I studied at ACLC College of Butuan, and I have experience in the following area
 💟  Projects
     Here are some of the projects I've worked on:
 
-💻 Project Name: Evaluating Healthcare Benefits of Senior Citizens
-              through Opinion Mining.
-💻 Project Name: Classification on Personality Traits using Naive Bayes Classifier and Support Vector Machine.
-💻 Project Name: Classification on Low Income Citizens using Naive Bayes Classifier.
+        - 💻 Project Name: Evaluating Healthcare Benefits of Senior Citizens through Opinion Mining.
+        - 💻 Project Name: Classification on Personality Traits using Naive Bayes Classifier and Support Vector Machine.
+        - 💻 Project Name: Classification on Low Income Citizens using Naive Bayes Classifier.
 
 📞 Contact Me
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project:
