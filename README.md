@@ -4,8 +4,8 @@
 I studied at ACLC College of Butuan, and I have experience in the following areas:
 
 
-  🔴 Python: Proficient in Python for scripting, automation, and backend development.
-  🔴 HTML & CSS: Skilled in creating and styling web pages.
+  🔴 Python: Proficient in Python for scripting, automation, and backend development
+  🔴 HTML & CSS: Skilled in creating and styling web pages
   🔴 React JS: Experienced in building dynamic and responsive user interfaces.
   🔴 JavaScript: Knowledgeable in adding interactivity and functionality to web applications.
   🔴 Natural Language Processing (NLP): Familiar with techniques for processing and analyzing human language data.
