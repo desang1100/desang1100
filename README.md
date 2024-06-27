@@ -11,7 +11,7 @@ I studied at ACLC College of Butuan, and I have experience in the following area
   - Natural Language Processing (NLP): Familiar with techniques for processing and analyzing human language data.
   - Machine Learning: Experienced in developing and implementing machine learning models
 
-💟  Projects
+###💟  Projects
     Here are some of the projects I've worked on:
 
         - 💻 Project Name: Evaluating Healthcare Benefits of Senior Citizens through Opinion Mining.
