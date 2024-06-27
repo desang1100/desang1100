@@ -23,7 +23,7 @@ I studied at ACLC College of Butuan, and I have experience in the following area
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=desang1100&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=desang1100&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=desang1100&theme=dark&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=desang1100&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
