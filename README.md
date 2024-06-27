@@ -22,8 +22,8 @@ I studied at ACLC College of Butuan, and I have experience in the following area
 📞 Contact Me
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project:
 
-📧 Email: [marsan.jay.saladaga@aclcbutuan.edu.ph]
-📬 LinkedIn: [your LinkedIn profile]
+    - 📧 Email: [marsan.jay.saladaga@aclcbutuan.edu.ph]
+    - 📬 LinkedIn: [www.linkedin.com/in/desang1100]
 Thank you for visiting my profile! 🚀
 
 
